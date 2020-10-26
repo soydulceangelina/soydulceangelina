@@ -1,4 +1,9 @@
-### Hola, Soy Dulce Mercado, front-end developer e ilustradora. 👋
+### Hola, Soy Dulce Mercado
+Desarrolladora front-end e ilustradora. 👋
+Encuentrame en:
+💬 LinkedIn - [soydulceangelina](https://www.linkedin.com/in/soydulceangelina/) 
+📫 Correo - <soydulceangelina@gmail.com>
+
 
 <!--
 **soydulceangelina/soydulceangelina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
