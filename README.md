@@ -1,6 +1,6 @@
 ### Hola, Soy Dulce Mercado
 Desarrolladora front-end e ilustradora. 👋
-- Encuentrame en:
+##Encuentrame en:
 - 💬 LinkedIn - [soydulceangelina](https://www.linkedin.com/in/soydulceangelina/) 
 - 📫 Correo - <soydulceangelina@gmail.com>
 
